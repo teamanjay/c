@@ -1,3 +1,5 @@
+// by ipunk dkk
+
 #include <iostream>
 #include <cmath>
 using namespace std;
