@@ -1,4 +1,4 @@
-// by ipunk dkk
+//coba clone dari
 
 #include <iostream>
 #include <cmath>
